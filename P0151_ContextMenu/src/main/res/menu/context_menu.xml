@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/g1">
+        <item android:title="Red" android:id="@+id/cRed"></item>
+        <item android:title="Green" android:id="@+id/cGreen"></item>
+        <item android:title="Blue" android:id="@+id/cBlue"></item>
+    </group>
+    <group android:id="@+id/g2">
+        <item android:title="22" android:id="@+id/s22"></item>
+        <item android:title="26" android:id="@+id/s26"></item>
+        <item android:title="30" android:id="@+id/s30"></item>
+    </group>
+</menu>
